@@ -1,0 +1,20 @@
+.header__lang-link {
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: 400;
+  color: #ffffff;
+  text-decoration: none;
+  margin-right: 18px;
+  
+  
+}
+.header__lang-link:hover {
+  color:#ffff;
+  text-decoration: underline;
+}
+@media (max-width: 767px) {
+  .header__lang-link {
+    font-size: 18px;
+    line-height: 24px;
+  }
+}

@@ -1,0 +1,16 @@
+.footer__items {
+  margin-right: 18px;
+}
+.footer__items:last-child {
+  margin-right: 0;
+}
+@media (max-width: 425px) {
+  .footer__items {
+    margin-right: 0;
+    margin-bottom: 32px;
+  }
+  .footer__items:last-child {
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+}
