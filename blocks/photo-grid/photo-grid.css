@@ -2,7 +2,7 @@
   display: grid;
   grid-gap: 16px;
   grid-template-columns: repeat(4, 1fr);
-  margin: 0 auto 92px;
+  margin: 0 auto 76px;
   max-width: calc(100% - 96px);
   
 }
@@ -23,7 +23,7 @@
 }
 @media (max-width: 425px) {
   .photo-grid {
-    margin: 0 auto 64px;
+    margin-bottom: 64px;
     max-width: calc(100% - 32px);
     grid-template-columns: 1fr;
     grid-gap: 12px;

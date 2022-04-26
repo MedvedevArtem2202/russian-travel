@@ -9,13 +9,13 @@
 }
 @media (min-width:426px) and (max-width: 768px) {
   .intro {
-    margin: 0 auto 88px;
+    margin-bottom: 88px;
     max-width: calc(100% - 48px);
   }
 }
 @media (max-width: 425px) {
   .intro {
-    margin: 0 auto 64px;
+    margin-bottom: 64px;
     max-width: calc(100% - 32px);
   }
 }
