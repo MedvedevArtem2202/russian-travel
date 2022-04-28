@@ -14,9 +14,7 @@
     line-height: 12vw;
   }
 }
-/*@media (min-width: 426px) and (max-width: 690px) {
 
-}*/
 @media (max-width: 425px) {
   .lead__title {
     margin-bottom: 16px;

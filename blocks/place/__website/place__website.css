@@ -9,6 +9,6 @@
 }
 @media (max-width: 425px) {
   .place__website {
-    display: none;
+    margin-left: 16px;
   }
 }

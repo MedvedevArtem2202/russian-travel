@@ -26,3 +26,22 @@
 .cover__background:hover::before  {
   opacity: .8;
 }
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .cover__background {
+    min-height: 640px;
+  }
+}
+
+@media (min-width: 426px) and (max-width: 768px) {
+  .cover__background {
+    min-height: 480px;
+  }
+}
+
+@media (max-width: 425px) {
+  .cover__background {
+
+    min-height: 200px;
+  }
+}
