@@ -1,6 +1,6 @@
 ﻿# Проект: Путешествие по России
 
-https://medvedevartem2202.github.io/russian-travel/
+* [Ссылка на сайт](https://medvedevartem2202.github.io/russian-travel/)
 
 ### Обзор
 * Интро
