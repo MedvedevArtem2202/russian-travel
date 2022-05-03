@@ -2,17 +2,3 @@
   margin: 0;
   padding: 0;
 }
-@media (min-width: 426px) and (max-width: 768px) {
-  .lead__center {
-    margin: 0 auto;
-    max-width: 100%;
-    padding: 0;
-  }
-}
-@media (max-width: 425px) {
-  .lead__center {
-    margin: 0 auto;
-    max-width: 425px;
-    padding: 0;
-  }
-}
